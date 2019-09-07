@@ -1,7 +1,7 @@
 title: RickyZhiYang's Blog 
 description: Technique Communications.
 show_downloads: false
-exclude: [CNAME, _config.yml]
+exclude: [CNAME, _config.yml, README.md]
 source: [blogs]
 encoding: utf-8
 google_analytics:

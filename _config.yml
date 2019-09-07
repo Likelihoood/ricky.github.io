@@ -1,2 +1,8 @@
-markedown: kramdown
+title: RickyZhiYang's Blog 
+description: Technique Communications.
+show_downloads: false
+exclude: [CNAME, README.md, _config.yml]
+source: [blogs]
+encoding: utf-8
+google_analytics:
 theme: jekyll-theme-cayman
